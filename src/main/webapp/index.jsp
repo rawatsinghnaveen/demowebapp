@@ -12,6 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">I am Learning the Devops tools</h1>
       <h2 class="text-center">Welcome to Naveen on behalf of DevOps Academy</h2>
+      <h2 class="text-center">Welcome to Kamlesh on behalf of DevOps Academy</h2>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
